@@ -1,0 +1,11 @@
+      		    /////User Helping\\\\
+////////////////////////And User Manual\\\\\\\\\\\\\\\\\\\\\\\
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                             x
+x 1.This program is made for educations.                      x
+x 2.This program is basic to normal level calculator program. x
+x 3.This program was coding by C language.                    x
+x 4.This program still have some bug,but least problems.      x
+x 5.Value is calculated in this program it still relate value.x
+x                                                             x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
